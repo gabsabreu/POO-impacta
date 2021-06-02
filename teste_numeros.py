@@ -8,3 +8,6 @@ print({validar})
 
 # lista_primos
 print(numeros.lista_primos(29))
+
+# conta_primos
+print(numeros.conta_primos)
